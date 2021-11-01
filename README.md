@@ -10,3 +10,4 @@ O versionamento aplica-se tanto a código, como a documentos. Importa registar a
 
 Outro conceito fundamental é o de <b>repositório</b>. Repositório é um projeto. Engloba os ficheiros necessários ao projeto. E estes ficheiros podem estar organizados em diretorias.
 
+E agora vejamos aas variantes.
